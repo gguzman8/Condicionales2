@@ -63,7 +63,9 @@
 // let valor = (numero1 > numero2) ? 'El numero1 es mayor' : 'El numero2 es mayor';
 
 // console.log(valor);
+
 // PEDIR DOS NUMEROS Y DECIR SI SON IGUALES O SI ES MAYOR DECIR CUAL
+
 // let numero1 = prompt('Dime un numero');
 // let numero2 = prompt('Dime un numero');
 // if (numero1 == numero2) {
@@ -72,6 +74,7 @@
 // let mayor = (numero1 > numero2) ? `El ${numero1} es mayor y el ${numero2} es menor ` : `El ${numero2} es mayor y el ${numero1} es menor `; 
 // console.log(mayor);
 // }
+
 //PEDIR UN NUMERO Y QUE ME DIGA SI ES PAR O NO
 
 // let numero = prompt('Dame un número');
@@ -113,7 +116,7 @@
 //         console.log(`El resultado es ${multiplicacion}`);
 //         break;
 //     case 'division':
-//         let division  = numero1 * numero2;
+//         let division  = numero1 / numero2;
 //         console.log(`El resultado es ${division}`);
 //         break;
 // }
